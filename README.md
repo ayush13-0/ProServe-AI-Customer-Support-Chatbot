@@ -53,7 +53,7 @@ The system performs:
 
 This project uses a **Customer Support Q&A Dataset**, containing:
 
-* customer_support_QA_dataset.csv
+* customer_support_QA_dataset.csv  - https://drive.google.com/file/d/1EEUd736xVvEhMtH7yseNn9Bt7UxvOl7V/view?usp=drive_link
 
 Each record includes:
 
