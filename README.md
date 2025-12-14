@@ -39,25 +39,6 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ProServe%20AI-Customer%20Support%20Chatbot-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<h1 align="center">🤖💬 ProServe AI – Customer Support Chatbot</h1>
-
-<p align="center">
-  <b>An intelligent ML-powered customer support chatbot using NLP & semantic similarity</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Cosine%20Similarity-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Pandas-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/UI-Streamlit-red?style=for-the-badge&logo=streamlit" />
-</p>
-
 # 🚀 Project Overview
 
 Modern businesses rely on AI-driven customer support systems to deliver fast and accurate responses at scale. **ProServe AI** replicates this real-world customer service automation using **Machine Learning and Natural Language Processing**.
