@@ -141,6 +141,7 @@ ProServe-AI/
 │
 ├── customer_support_QA_dataset.csv   # Support knowledge base
 ├── ProServeAI.py                     # Streamlit chatbot app
+├── ProServeAI-v2                     # Streamlit v2 chatbot app 
 ├── ProServe-AI-Main.ipynb            # Model development notebook
 ├── requirements.txt                 # Dependencies
 └── README.md                         # Documentation
