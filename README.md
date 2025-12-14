@@ -18,12 +18,8 @@
   <img src="https://img.shields.io/badge/Data-Pandas-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/UI-Streamlit-red?style=for-the-badge&logo=streamlit" />
-</p>
-
-<!-- ADVANCED / STATUS BADGES -->
-<p align="center">
   <img src="https://img.shields.io/badge/Model-Retrieval--Based%20AI-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployment-Streamlit%20App-success?style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" />
 </p>
 
