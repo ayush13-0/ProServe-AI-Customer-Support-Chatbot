@@ -172,10 +172,12 @@ streamlit run ProServeAI.py
 * By leveraging TF-IDF and cosine similarity, the system delivers fast, accurate, and scalable responses.
 * The project serves as a strong foundation for production-grade AI-powered support systems.
 
-# 👨‍💻 Author
+# 👨‍💻 Developed By
+# Ayush 
+-----------------------------------------------
+- 💼LinkedIn: https://linkedin.com/in/ayush130
+- 💻GitHub: https://github.com/ayush13-0
+- ✉️Email- bhanuseenu914@gmail.com
 
-## Ayush
-
-* 🔗 GitHub: [https://github.com/ayush13-0](https://github.com/ayush13-0)
-* 🔗 LinkedIn: [https://linkedin.com/in/ayush130](https://linkedin.com/in/ayush130)
-
+📜 License
+- This project is licensed under the **MIT License**.
