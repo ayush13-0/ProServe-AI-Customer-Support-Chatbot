@@ -29,7 +29,7 @@
 
 <!-- INTERNSHIP / PROGRAM BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Internship-CodSoft%20ML%20Internship-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Internship-CODEC Technologies%20ML%20Internship-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Project-Type%20AI%20Application-blue?style=for-the-badge" />
 </p>
 
